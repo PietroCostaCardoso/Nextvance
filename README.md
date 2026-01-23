@@ -58,5 +58,5 @@ A **Nextvance** é uma landing page institucional de alta performance para agên
 Desenvolvido com dedicação por **Pietro Costa Cardoso**.  
 Se este projeto te ajudou, considere dar uma ⭐ no repositório!
 
-Link original:
+Link original: https://pietrocostacardoso.github.io/Nextvance/
 Pietro Costa Cardoso. Todos os direitos reservados sob a Licença MIT.
