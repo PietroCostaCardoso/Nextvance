@@ -1,4 +1,10 @@
 # Nextvance
+![Autor](https://img.shields.io/badge/Autor-Pietro%20Costa%20Cardoso-blue?style=flat-square&logo=github)
+![Licença](https://img.shields.io/badge/Licença-MIT-yellow.svg?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Original%20Repo-green?style=flat-square)
+
+> **Aviso:** Este é o repositório original do projeto Nextvance. Se você encontrar este código em outro perfil sem os devidos créditos, ele foi plagiado.
+---
 Project designed to serve as a foundational institutional website for agencies seeking a fast, modern and high-performance online presence.
 
 # Nextvance - Digital Strategy & Creation Agency
@@ -44,3 +50,13 @@ A **Nextvance** é uma landing page institucional de alta performance para agên
   <img src="https://github.com/user-attachments/assets/ed0f59c7-bd31-4423-987b-511f83c417ca" width="45%" />
 </div>
 </div>
+
+---
+
+## 👤 Autor
+
+Desenvolvido com dedicação por **Pietro Costa Cardoso**.  
+Se este projeto te ajudou, considere dar uma ⭐ no repositório!
+
+Link original:
+Pietro Costa Cardoso. Todos os direitos reservados sob a Licença MIT.
