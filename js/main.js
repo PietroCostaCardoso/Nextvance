@@ -1,3 +1,17 @@
+/**
+ * NEXTVANCE - Digital Strategy & Creation Agency
+ * @author: Pietro Costa Cardoso
+ * @link: https://github.com/PietroCostaCardoso
+ * Copyright (c) 2026.
+ * Protegido sob a Licença MIT.
+ */
+
+console.log(
+  "%c Nextvance - Desenvolvido por Pietro Costa Cardoso %c https://github.com/PietroCostaCardoso",
+  "color: white; background: #007bff; padding: 5px 10px; border-radius: 5px; font-weight: bold;",
+  "color: #007bff; font-weight: bold;"
+);
+
 (function(){
     const $body = document.querySelector('body');
     $body.classList.remove('no-js')
@@ -281,4 +295,5 @@
             });
         });
     }
+
 })()
