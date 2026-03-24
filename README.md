@@ -5,7 +5,7 @@
 
 > **Aviso:** Este é o repositório original do projeto Nextvance. Se você encontrar este código em outro perfil sem os devidos créditos, ele foi plagiado.
 ---
-Project designed to serve as a foundational institutional website for agencies seeking a fast, modern and high-performance online presence...........
+Project designed to serve as a foundational institutional website for agencies seeking a fast, modern and high-performance online presence..........
 
 # Nextvance - Digital Strategy & Creation Agency
 
