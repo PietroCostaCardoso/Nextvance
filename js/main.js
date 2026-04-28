@@ -189,7 +189,7 @@ console.log(
         function performSearchAction() {
             const searchTerm = $searchInput.value.toLowerCase().trim();
             
-            // Verifica se é uma palavra-chave de seção
+            // Verifica se é uma palavra-chave de seção para efetuar a pesquisa
             if (sectionKeywords[searchTerm]) {
                 const $section = document.querySelector(sectionKeywords[searchTerm]);
                 if ($section) {
